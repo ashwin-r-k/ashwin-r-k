@@ -47,6 +47,8 @@
 
 #### [PulsarAnalyticsKit](https://github.com/ashwin-r-k/PulsarAnalyticsKit)
 
+<img align="right" height="150" width="300" alt="Ashwin's GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmszaHllZXZxOG5yNml3bmdwdnJ1ZXhtdjRxZWdsOXhzODFjdjI4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3dj5M4YLaFww31V6/giphy.gif">
+
 <div align="left" style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <p>
@@ -63,9 +65,6 @@
       <img src="https://img.shields.io/github/license/ashwin-r-k/PulsarAnalyticsKit?style=flat-square" alt="License"/>
       <img src="https://img.shields.io/github/last-commit/ashwin-r-k/PulsarAnalyticsKit?style=flat-square" alt="Last Commit"/>
     </p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img height="200" src="https://github.com/ashwin-r-k/PulsarAnalyticsKit/blob/main/guibase/banner.png?raw=true" alt="PulsarAnalyticsKit Banner"/>
   </div>
 </div>
 
